@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 twitter = "*"
 tweepy = "*"
+pydrive = "*"
 
 [requires]
 python_version = "3.7"
